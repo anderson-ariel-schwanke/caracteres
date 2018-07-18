@@ -1,0 +1,2 @@
+# caracteres
+Caracteres Para Ataques
